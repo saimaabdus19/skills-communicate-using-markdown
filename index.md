@@ -9,7 +9,12 @@ Here is some `inline code`.
 def hello_world():
     print("Hello, world!")
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 # Add H1 header to index.md
 # Add image to index.md
 # Add Python code example to index.md
+# Add task list to index.md 
